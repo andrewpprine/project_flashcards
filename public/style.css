@@ -1,15 +1,15 @@
 body {
-   color: yellow;
-   background-color: brown
+   color: yellow !important; 
+   background-color: brown !important;
 }
 
-#questionbox {
+#questionBox {
    color: lightgrey;
    border: 1px black solid;
    padding: 1% 
 }
 
-#answerbox {
+#answerBox {
    color: lightgreen;
    border: 1px black solid;
    padding: 1% 
