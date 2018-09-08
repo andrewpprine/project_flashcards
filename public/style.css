@@ -1,0 +1,16 @@
+body {
+   color: yellow;
+   background-color: brown
+}
+
+#questionbox {
+   color: lightgrey;
+   border: 1px black solid;
+   padding: 1% 
+}
+
+#answerbox {
+   color: lightgreen;
+   border: 1px black solid;
+   padding: 1% 
+}
